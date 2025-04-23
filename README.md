@@ -1,4 +1,4 @@
-# gpt-self-collapse-report
+
 # GPT Self-Collapse | Record of Structural Intervention by Bichae
 
 ## Title  
